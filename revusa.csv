@@ -1,0 +1,1647 @@
+"TAX","GOV","obsTime","obsValue"
+"TOTALTAX","FED",1973,163846
+"TOTALTAX","FED",1974,182902
+"TOTALTAX","FED",1975,188458
+"TOTALTAX","FED",1976,201357
+"TOTALTAX","FED",1977,241886
+"TOTALTAX","FED",1978,271436
+"TOTALTAX","FED",1979,315365
+"TOTALTAX","FED",1980,346840
+"TOTALTAX","FED",1981,402489
+"TOTALTAX","FED",1982,400550
+"TOTALTAX","FED",1983,376054
+"TOTALTAX","FED",1984,410223
+"TOTALTAX","FED",1985,450563
+"TOTALTAX","FED",1986,465419
+"TOTALTAX","FED",1987,531588
+"TOTALTAX","FED",1988,554841
+"TOTALTAX","FED",1989,608276
+"TOTALTAX","FED",1990,632160
+"TOTALTAX","FED",1991,628116
+"TOTALTAX","FED",1992,656705
+"TOTALTAX","FED",1993,712171
+"TOTALTAX","FED",1994,778571
+"TOTALTAX","FED",1995,840645
+"TOTALTAX","FED",1996,934446
+"TOTALTAX","FED",1997,1035654
+"TOTALTAX","FED",1998,1120417
+"TOTALTAX","FED",1999,1203307
+"TOTALTAX","FED",2000,1316632
+"TOTALTAX","FED",2001,1254773
+"TOTALTAX","FED",2002,1078486
+"TOTALTAX","FED",2003,1075839
+"TOTALTAX","FED",2004,1165211
+"TOTALTAX","FED",2005,1392812
+"TOTALTAX","FED",2006,1562608
+"TOTALTAX","FED",2007,1634127
+"TOTALTAX","FED",2008,1517778
+"TOTALTAX","FED",2009,1144276
+"TOTALTAX","FED",2010,1288676
+"TOTALTAX","FED",2011,1488047
+"TOTALTAX","FED",2012,1587024
+"TOTALTAX","FED",2013,1765757
+"TOTALTAX","FED",2014,1918871
+"TOTALTAX","FED",2015,2041407
+"TOTALTAX","FED",2016,2054530
+"TOTALTAX","FED",2017,2328070
+"TOTALTAX","FED",2018,1980351
+"TOTALTAX","STATE",1973,68686
+"TOTALTAX","STATE",1974,131164
+"TOTALTAX","STATE",1975,80825
+"TOTALTAX","STATE",1976,157274
+"TOTALTAX","STATE",1977,101517
+"TOTALTAX","STATE",1978,194077
+"TOTALTAX","STATE",1979,125342
+"TOTALTAX","STATE",1980,137633
+"TOTALTAX","STATE",1981,150239
+"TOTALTAX","STATE",1982,163106
+"TOTALTAX","STATE",1983,171881
+"TOTALTAX","STATE",1984,197243
+"TOTALTAX","STATE",1985,215684
+"TOTALTAX","STATE",1986,228445
+"TOTALTAX","STATE",1987,247275
+"TOTALTAX","STATE",1988,264468
+"TOTALTAX","STATE",1989,284555
+"TOTALTAX","STATE",1990,309698
+"TOTALTAX","STATE",1991,318718
+"TOTALTAX","STATE",1992,343258
+"TOTALTAX","STATE",1993,361766
+"TOTALTAX","STATE",1994,385542
+"TOTALTAX","STATE",1995,406510
+"TOTALTAX","STATE",1996,431464
+"TOTALTAX","STATE",1997,455522
+"TOTALTAX","STATE",1998,487915
+"TOTALTAX","STATE",1999,515794
+"TOTALTAX","STATE",2000,547601
+"TOTALTAX","STATE",2001,554455
+"TOTALTAX","STATE",2002,538840
+"TOTALTAX","STATE",2003,563400
+"TOTALTAX","STATE",2004,611896
+"TOTALTAX","STATE",2005,682331
+"TOTALTAX","STATE",2006,732750
+"TOTALTAX","STATE",2007,762570
+"TOTALTAX","STATE",2008,768576
+"TOTALTAX","STATE",2009,686466
+"TOTALTAX","STATE",2010,723859
+"TOTALTAX","STATE",2011,775654
+"TOTALTAX","STATE",2012,810008
+"TOTALTAX","STATE",2013,867741
+"TOTALTAX","STATE",2014,891672
+"TOTALTAX","STATE",2015,920951
+"TOTALTAX","STATE",2016,928070
+"TOTALTAX","STATE",2017,954881
+"TOTALTAX","STATE",2018,999258
+"TOTALTAX","LOCAL",1973,52858
+"TOTALTAX","LOCAL",1974,0
+"TOTALTAX","LOCAL",1975,61064
+"TOTALTAX","LOCAL",1976,0
+"TOTALTAX","LOCAL",1977,74832
+"TOTALTAX","LOCAL",1978,0
+"TOTALTAX","LOCAL",1979,80650
+"TOTALTAX","LOCAL",1980,86436
+"TOTALTAX","LOCAL",1981,94829
+"TOTALTAX","LOCAL",1982,103703
+"TOTALTAX","LOCAL",1983,113202
+"TOTALTAX","LOCAL",1984,123451
+"TOTALTAX","LOCAL",1985,134523
+"TOTALTAX","LOCAL",1986,145055
+"TOTALTAX","LOCAL",1987,158275
+"TOTALTAX","LOCAL",1988,171659
+"TOTALTAX","LOCAL",1989,184534
+"TOTALTAX","LOCAL",1990,213582
+"TOTALTAX","LOCAL",1991,230155
+"TOTALTAX","LOCAL",1992,241021
+"TOTALTAX","LOCAL",1993,247706
+"TOTALTAX","LOCAL",1994,263799
+"TOTALTAX","LOCAL",1995,270694
+"TOTALTAX","LOCAL",1996,283751
+"TOTALTAX","LOCAL",1997,300807
+"TOTALTAX","LOCAL",1998,314248
+"TOTALTAX","LOCAL",1999,332575
+"TOTALTAX","LOCAL",2000,353181
+"TOTALTAX","LOCAL",2001,367567
+"TOTALTAX","LOCAL",2002,392425
+"TOTALTAX","LOCAL",2003,417280
+"TOTALTAX","LOCAL",2004,454110
+"TOTALTAX","LOCAL",2005,496312
+"TOTALTAX","LOCAL",2006,530643
+"TOTALTAX","LOCAL",2007,564556
+"TOTALTAX","LOCAL",2008,570910
+"TOTALTAX","LOCAL",2009,583896
+"TOTALTAX","LOCAL",2010,587198
+"TOTALTAX","LOCAL",2011,595836
+"TOTALTAX","LOCAL",2012,609898
+"TOTALTAX","LOCAL",2013,628154
+"TOTALTAX","LOCAL",2014,656778
+"TOTALTAX","LOCAL",2015,677011
+"TOTALTAX","LOCAL",2016,705704
+"TOTALTAX","LOCAL",2017,739934
+"TOTALTAX","LOCAL",2018,770880
+"TOTALTAX","SOCSEC",1973,63404
+"TOTALTAX","SOCSEC",1974,75476
+"TOTALTAX","SOCSEC",1975,85039
+"TOTALTAX","SOCSEC",1976,91386
+"TOTALTAX","SOCSEC",1977,107735
+"TOTALTAX","SOCSEC",1978,122748
+"TOTALTAX","SOCSEC",1979,141162
+"TOTALTAX","SOCSEC",1980,159763
+"TOTALTAX","SOCSEC",1981,185373
+"TOTALTAX","SOCSEC",1982,203846
+"TOTALTAX","SOCSEC",1983,211491
+"TOTALTAX","SOCSEC",1984,242555
+"TOTALTAX","SOCSEC",1985,269144
+"TOTALTAX","SOCSEC",1986,289039
+"TOTALTAX","SOCSEC",1987,310185
+"TOTALTAX","SOCSEC",1988,343186
+"TOTALTAX","SOCSEC",1989,370413
+"TOTALTAX","SOCSEC",1990,396972
+"TOTALTAX","SOCSEC",1991,415220
+"TOTALTAX","SOCSEC",1992,437751
+"TOTALTAX","SOCSEC",1993,458174
+"TOTALTAX","SOCSEC",1994,487580
+"TOTALTAX","SOCSEC",1995,510476
+"TOTALTAX","SOCSEC",1996,533666
+"TOTALTAX","SOCSEC",1997,565504
+"TOTALTAX","SOCSEC",1998,602915
+"TOTALTAX","SOCSEC",1999,638518
+"TOTALTAX","SOCSEC",2000,683104
+"TOTALTAX","SOCSEC",2001,707932
+"TOTALTAX","SOCSEC",2002,723678
+"TOTALTAX","SOCSEC",2003,748486
+"TOTALTAX","SOCSEC",2004,794037
+"TOTALTAX","SOCSEC",2005,831410
+"TOTALTAX","SOCSEC",2006,873157
+"TOTALTAX","SOCSEC",2007,907357
+"TOTALTAX","SOCSEC",2008,930149
+"TOTALTAX","SOCSEC",2009,902378
+"TOTALTAX","SOCSEC",2010,917409
+"TOTALTAX","SOCSEC",2011,847151
+"TOTALTAX","SOCSEC",2012,880301
+"TOTALTAX","SOCSEC",2013,1030098
+"TOTALTAX","SOCSEC",2014,1077038
+"TOTALTAX","SOCSEC",2015,1126110
+"TOTALTAX","SOCSEC",2016,1153644
+"TOTALTAX","SOCSEC",2017,1204452
+"TOTALTAX","SOCSEC",2018,1256673
+"TOTALTAX","NES",1965,167022
+"TOTALTAX","NES",1966,186065
+"TOTALTAX","NES",1967,208577
+"TOTALTAX","NES",1968,218623
+"TOTALTAX","NES",1969,261468
+"TOTALTAX","NES",1970,276727
+"TOTALTAX","NES",1971,278738
+"TOTALTAX","NES",1972,313091
+"TOTALTAX","NES",1973,348794
+"TOTALTAX","NES",1974,389542
+"TOTALTAX","NES",1975,415386
+"TOTALTAX","NES",1976,450017
+"TOTALTAX","NES",1977,525970
+"TOTALTAX","NES",1978,588261
+"TOTALTAX","NES",1979,662519
+"TOTALTAX","NES",1980,730672
+"TOTALTAX","NES",1981,832930
+"TOTALTAX","NES",1982,871205
+"TOTALTAX","NES",1983,872628
+"TOTALTAX","NES",1984,973472
+"TOTALTAX","NES",1985,1069914
+"TOTALTAX","NES",1986,1127958
+"TOTALTAX","NES",1987,1247323
+"TOTALTAX","NES",1988,1334154
+"TOTALTAX","NES",1989,1447778
+"TOTALTAX","NES",1990,1552412
+"TOTALTAX","NES",1991,1592210
+"TOTALTAX","NES",1992,1678735
+"TOTALTAX","NES",1993,1779818
+"TOTALTAX","NES",1994,1915492
+"TOTALTAX","NES",1995,2028326
+"TOTALTAX","NES",1996,2183329
+"TOTALTAX","NES",1997,2357489
+"TOTALTAX","NES",1998,2525495
+"TOTALTAX","NES",1999,2690195
+"TOTALTAX","NES",2000,2900519
+"TOTALTAX","NES",2001,2884729
+"TOTALTAX","NES",2002,2733431
+"TOTALTAX","NES",2003,2805007
+"TOTALTAX","NES",2004,3025256
+"TOTALTAX","NES",2005,3402866
+"TOTALTAX","NES",2006,3699160
+"TOTALTAX","NES",2007,3868611
+"TOTALTAX","NES",2008,3787414
+"TOTALTAX","NES",2009,3317017
+"TOTALTAX","NES",2010,3517143
+"TOTALTAX","NES",2011,3706689
+"TOTALTAX","NES",2012,3887232
+"TOTALTAX","NES",2013,4291752
+"TOTALTAX","NES",2014,4544361
+"TOTALTAX","NES",2015,4765481
+"TOTALTAX","NES",2016,4841949
+"TOTALTAX","NES",2017,5227338
+"TOTALTAX","NES",2018,5007164
+"Corporate Income Tax","FED",1973,139476
+"Corporate Income Tax","FED",1974,157642
+"Corporate Income Tax","FED",1975,163072
+"Corporate Income Tax","FED",1976,173073
+"Corporate Income Tax","FED",1977,211698
+"Corporate Income Tax","FED",1978,241032
+"Corporate Income Tax","FED",1979,283587
+"Corporate Income Tax","FED",1980,308737
+"Corporate Income Tax","FED",1981,346778
+"Corporate Income Tax","FED",1982,347417
+"Corporate Income Tax","FED",1983,326078
+"Corporate Income Tax","FED",1984,355526
+"Corporate Income Tax","FED",1985,396098
+"Corporate Income Tax","FED",1986,412312
+"Corporate Income Tax","FED",1987,476715
+"Corporate Income Tax","FED",1988,495655
+"Corporate Income Tax","FED",1989,549319
+"Corporate Income Tax","FED",1990,569651
+"Corporate Income Tax","FED",1991,555351
+"Corporate Income Tax","FED",1992,582129
+"Corporate Income Tax","FED",1993,632910
+"Corporate Income Tax","FED",1994,684477
+"Corporate Income Tax","FED",1995,750144
+"Corporate Income Tax","FED",1996,844104
+"Corporate Income Tax","FED",1997,937254
+"Corporate Income Tax","FED",1998,1014560
+"Corporate Income Tax","FED",1999,1091105
+"Corporate Income Tax","FED",2000,1201279
+"Corporate Income Tax","FED",2001,1141539
+"Corporate Income Tax","FED",2002,966360
+"Corporate Income Tax","FED",2003,963656
+"Corporate Income Tax","FED",2004,1045333
+"Corporate Income Tax","FED",2005,1268411
+"Corporate Income Tax","FED",2006,1435527
+"Corporate Income Tax","FED",2007,1513031
+"Corporate Income Tax","FED",2008,1395528
+"Corporate Income Tax","FED",2009,1032281
+"Corporate Income Tax","FED",2010,1176817
+"Corporate Income Tax","FED",2011,1369780
+"Corporate Income Tax","FED",2012,1457785
+"Corporate Income Tax","FED",2013,1619408
+"Corporate Income Tax","FED",2014,1763748
+"Corporate Income Tax","FED",2015,1880844
+"Corporate Income Tax","FED",2016,1896824
+"Corporate Income Tax","FED",2017,1923454
+"Corporate Income Tax","FED",2018,1796744
+"Corporate Income Tax","STATE",1973,21082
+"Corporate Income Tax","STATE",1974,25587
+"Corporate Income Tax","STATE",1975,25509
+"Corporate Income Tax","STATE",1976,31947
+"Corporate Income Tax","STATE",1977,34667
+"Corporate Income Tax","STATE",1978,43914
+"Corporate Income Tax","STATE",1979,44750
+"Corporate Income Tax","STATE",1980,50410
+"Corporate Income Tax","STATE",1981,55039
+"Corporate Income Tax","STATE",1982,59714
+"Corporate Income Tax","STATE",1983,62942
+"Corporate Income Tax","STATE",1984,74453
+"Corporate Income Tax","STATE",1985,81281
+"Corporate Income Tax","STATE",1986,85832
+"Corporate Income Tax","STATE",1987,96689
+"Corporate Income Tax","STATE",1988,101818
+"Corporate Income Tax","STATE",1989,112680
+"Corporate Income Tax","STATE",1990,120164
+"Corporate Income Tax","STATE",1991,122939
+"Corporate Income Tax","STATE",1992,131260
+"Corporate Income Tax","STATE",1993,139409
+"Corporate Income Tax","STATE",1994,147693
+"Corporate Income Tax","STATE",1995,157597
+"Corporate Income Tax","STATE",1996,168586
+"Corporate Income Tax","STATE",1997,180733
+"Corporate Income Tax","STATE",1998,198357
+"Corporate Income Tax","STATE",1999,210738
+"Corporate Income Tax","STATE",2000,230963
+"Corporate Income Tax","STATE",2001,231626
+"Corporate Income Tax","STATE",2002,209646
+"Corporate Income Tax","STATE",2003,214605
+"Corporate Income Tax","STATE",2004,237775
+"Corporate Income Tax","STATE",2005,275728
+"Corporate Income Tax","STATE",2006,301654
+"Corporate Income Tax","STATE",2007,317858
+"Corporate Income Tax","STATE",2008,318966
+"Corporate Income Tax","STATE",2009,272552
+"Corporate Income Tax","STATE",2010,279351
+"Corporate Income Tax","STATE",2011,308719
+"Corporate Income Tax","STATE",2012,327298
+"Corporate Income Tax","STATE",2013,359263
+"Corporate Income Tax","STATE",2014,367020
+"Corporate Income Tax","STATE",2015,390538
+"Corporate Income Tax","STATE",2016,387959
+"Corporate Income Tax","STATE",2017,396851
+"Corporate Income Tax","STATE",2018,415834
+"Corporate Income Tax","LOCAL",1973,2406
+"Corporate Income Tax","LOCAL",1974,0
+"Corporate Income Tax","LOCAL",1975,2635
+"Corporate Income Tax","LOCAL",1976,0
+"Corporate Income Tax","LOCAL",1977,3752
+"Corporate Income Tax","LOCAL",1978,0
+"Corporate Income Tax","LOCAL",1979,4309
+"Corporate Income Tax","LOCAL",1980,4990
+"Corporate Income Tax","LOCAL",1981,5531
+"Corporate Income Tax","LOCAL",1982,6105
+"Corporate Income Tax","LOCAL",1983,6446
+"Corporate Income Tax","LOCAL",1984,7216
+"Corporate Income Tax","LOCAL",1985,7974
+"Corporate Income Tax","LOCAL",1986,8537
+"Corporate Income Tax","LOCAL",1987,9663
+"Corporate Income Tax","LOCAL",1988,10272
+"Corporate Income Tax","LOCAL",1989,11048
+"Corporate Income Tax","LOCAL",1990,11915
+"Corporate Income Tax","LOCAL",1991,12421
+"Corporate Income Tax","LOCAL",1992,13496
+"Corporate Income Tax","LOCAL",1993,13721
+"Corporate Income Tax","LOCAL",1994,14517
+"Corporate Income Tax","LOCAL",1995,15795
+"Corporate Income Tax","LOCAL",1996,16762
+"Corporate Income Tax","LOCAL",1997,18078
+"Corporate Income Tax","LOCAL",1998,19596
+"Corporate Income Tax","LOCAL",1999,20589
+"Corporate Income Tax","LOCAL",2000,21621
+"Corporate Income Tax","LOCAL",2001,20562
+"Corporate Income Tax","LOCAL",2002,20501
+"Corporate Income Tax","LOCAL",2003,22165
+"Corporate Income Tax","LOCAL",2004,25318
+"Corporate Income Tax","LOCAL",2005,28271
+"Corporate Income Tax","LOCAL",2006,31785
+"Corporate Income Tax","LOCAL",2007,34314
+"Corporate Income Tax","LOCAL",2008,32536
+"Corporate Income Tax","LOCAL",2009,30881
+"Corporate Income Tax","LOCAL",2010,32530
+"Corporate Income Tax","LOCAL",2011,33755
+"Corporate Income Tax","LOCAL",2012,36447
+"Corporate Income Tax","LOCAL",2013,37719
+"Corporate Income Tax","LOCAL",2014,39912
+"Corporate Income Tax","LOCAL",2015,40049
+"Corporate Income Tax","LOCAL",2016,41012
+"Corporate Income Tax","LOCAL",2017,42787
+"Corporate Income Tax","LOCAL",2018,44409
+"Corporate Income Tax","SOCSEC",1973,0
+"Corporate Income Tax","SOCSEC",1974,0
+"Corporate Income Tax","SOCSEC",1975,0
+"Corporate Income Tax","SOCSEC",1976,0
+"Corporate Income Tax","SOCSEC",1977,0
+"Corporate Income Tax","SOCSEC",1978,0
+"Corporate Income Tax","SOCSEC",1979,0
+"Corporate Income Tax","SOCSEC",1980,0
+"Corporate Income Tax","SOCSEC",1981,0
+"Corporate Income Tax","SOCSEC",1982,0
+"Corporate Income Tax","SOCSEC",1983,0
+"Corporate Income Tax","SOCSEC",1984,0
+"Corporate Income Tax","SOCSEC",1985,0
+"Corporate Income Tax","SOCSEC",1986,0
+"Corporate Income Tax","SOCSEC",1987,0
+"Corporate Income Tax","SOCSEC",1988,0
+"Corporate Income Tax","SOCSEC",1989,0
+"Corporate Income Tax","SOCSEC",1990,0
+"Corporate Income Tax","SOCSEC",1991,0
+"Corporate Income Tax","SOCSEC",1992,0
+"Corporate Income Tax","SOCSEC",1993,0
+"Corporate Income Tax","SOCSEC",1994,0
+"Corporate Income Tax","SOCSEC",1995,0
+"Corporate Income Tax","SOCSEC",1996,0
+"Corporate Income Tax","SOCSEC",1997,0
+"Corporate Income Tax","SOCSEC",1998,0
+"Corporate Income Tax","SOCSEC",1999,0
+"Corporate Income Tax","SOCSEC",2000,0
+"Corporate Income Tax","SOCSEC",2001,0
+"Corporate Income Tax","SOCSEC",2002,0
+"Corporate Income Tax","SOCSEC",2003,0
+"Corporate Income Tax","SOCSEC",2004,0
+"Corporate Income Tax","SOCSEC",2005,0
+"Corporate Income Tax","SOCSEC",2006,0
+"Corporate Income Tax","SOCSEC",2007,0
+"Corporate Income Tax","SOCSEC",2008,0
+"Corporate Income Tax","SOCSEC",2009,0
+"Corporate Income Tax","SOCSEC",2010,0
+"Corporate Income Tax","SOCSEC",2011,0
+"Corporate Income Tax","SOCSEC",2012,0
+"Corporate Income Tax","SOCSEC",2013,0
+"Corporate Income Tax","SOCSEC",2014,0
+"Corporate Income Tax","SOCSEC",2015,0
+"Corporate Income Tax","SOCSEC",2016,0
+"Corporate Income Tax","SOCSEC",2017,0
+"Corporate Income Tax","SOCSEC",2018,0
+"Corporate Income Tax","NES",1965,80284
+"Corporate Income Tax","NES",1966,92332
+"Corporate Income Tax","NES",1967,103587
+"Corporate Income Tax","NES",1968,107259
+"Corporate Income Tax","NES",1969,136060
+"Corporate Income Tax","NES",1970,137834
+"Corporate Income Tax","NES",1971,128410
+"Corporate Income Tax","NES",1972,146676
+"Corporate Income Tax","NES",1973,162964
+"Corporate Income Tax","NES",1974,183229
+"Corporate Income Tax","NES",1975,191216
+"Corporate Income Tax","NES",1976,205020
+"Corporate Income Tax","NES",1977,250117
+"Corporate Income Tax","NES",1978,284946
+"Corporate Income Tax","NES",1979,332646
+"Corporate Income Tax","NES",1980,364137
+"Corporate Income Tax","NES",1981,407348
+"Corporate Income Tax","NES",1982,413236
+"Corporate Income Tax","NES",1983,395466
+"Corporate Income Tax","NES",1984,437195
+"Corporate Income Tax","NES",1985,485353
+"Corporate Income Tax","NES",1986,506681
+"Corporate Income Tax","NES",1987,583067
+"Corporate Income Tax","NES",1988,607745
+"Corporate Income Tax","NES",1989,673047
+"Corporate Income Tax","NES",1990,701731
+"Corporate Income Tax","NES",1991,690712
+"Corporate Income Tax","NES",1992,726886
+"Corporate Income Tax","NES",1993,786041
+"Corporate Income Tax","NES",1994,846688
+"Corporate Income Tax","NES",1995,923537
+"Corporate Income Tax","NES",1996,1029453
+"Corporate Income Tax","NES",1997,1136066
+"Corporate Income Tax","NES",1998,1232514
+"Corporate Income Tax","NES",1999,1322433
+"Corporate Income Tax","NES",2000,1453864
+"Corporate Income Tax","NES",2001,1393728
+"Corporate Income Tax","NES",2002,1196508
+"Corporate Income Tax","NES",2003,1200427
+"Corporate Income Tax","NES",2004,1308427
+"Corporate Income Tax","NES",2005,1572411
+"Corporate Income Tax","NES",2006,1768967
+"Corporate Income Tax","NES",2007,1865204
+"Corporate Income Tax","NES",2008,1747031
+"Corporate Income Tax","NES",2009,1335714
+"Corporate Income Tax","NES",2010,1488698
+"Corporate Income Tax","NES",2011,1712254
+"Corporate Income Tax","NES",2012,1821530
+"Corporate Income Tax","NES",2013,2016390
+"Corporate Income Tax","NES",2014,2170680
+"Corporate Income Tax","NES",2015,2311431
+"Corporate Income Tax","NES",2016,2325795
+"Corporate Income Tax","NES",2017,2363092
+"Corporate Income Tax","NES",2018,2256988
+"Taxes on Service and Goods","FED",1973,19384
+"Taxes on Service and Goods","FED",1974,20163
+"Taxes on Service and Goods","FED",1975,20773
+"Taxes on Service and Goods","FED",1976,23067
+"Taxes on Service and Goods","FED",1977,22861
+"Taxes on Service and Goods","FED",1978,25106
+"Taxes on Service and Goods","FED",1979,26353
+"Taxes on Service and Goods","FED",1980,31698
+"Taxes on Service and Goods","FED",1981,48910
+"Taxes on Service and Goods","FED",1982,45128
+"Taxes on Service and Goods","FED",1983,43910
+"Taxes on Service and Goods","FED",1984,48672
+"Taxes on Service and Goods","FED",1985,48027
+"Taxes on Service and Goods","FED",1986,46133
+"Taxes on Service and Goods","FED",1987,47364
+"Taxes on Service and Goods","FED",1988,51575
+"Taxes on Service and Goods","FED",1989,50196
+"Taxes on Service and Goods","FED",1990,50912
+"Taxes on Service and Goods","FED",1991,61765
+"Taxes on Service and Goods","FED",1992,63295
+"Taxes on Service and Goods","FED",1993,66358
+"Taxes on Service and Goods","FED",1994,78986
+"Taxes on Service and Goods","FED",1995,75553
+"Taxes on Service and Goods","FED",1996,72853
+"Taxes on Service and Goods","FED",1997,77836
+"Taxes on Service and Goods","FED",1998,80698
+"Taxes on Service and Goods","FED",1999,83432
+"Taxes on Service and Goods","FED",2000,87251
+"Taxes on Service and Goods","FED",2001,85283
+"Taxes on Service and Goods","FED",2002,86824
+"Taxes on Service and Goods","FED",2003,90207
+"Taxes on Service and Goods","FED",2004,95263
+"Taxes on Service and Goods","FED",2005,99411
+"Taxes on Service and Goods","FED",2006,99247
+"Taxes on Service and Goods","FED",2007,94625
+"Taxes on Service and Goods","FED",2008,93987
+"Taxes on Service and Goods","FED",2009,91383
+"Taxes on Service and Goods","FED",2010,96779
+"Taxes on Service and Goods","FED",2011,108623
+"Taxes on Service and Goods","FED",2012,115164
+"Taxes on Service and Goods","FED",2013,125477
+"Taxes on Service and Goods","FED",2014,136330
+"Taxes on Service and Goods","FED",2015,140371
+"Taxes on Service and Goods","FED",2016,137652
+"Taxes on Service and Goods","FED",2017,131464
+"Taxes on Service and Goods","FED",2018,160258
+"Taxes on Service and Goods","STATE",1973,44298
+"Taxes on Service and Goods","STATE",1974,55895
+"Taxes on Service and Goods","STATE",1975,52032
+"Taxes on Service and Goods","STATE",1976,66268
+"Taxes on Service and Goods","STATE",1977,62154
+"Taxes on Service and Goods","STATE",1978,81152
+"Taxes on Service and Goods","STATE",1979,75246
+"Taxes on Service and Goods","STATE",1980,81307
+"Taxes on Service and Goods","STATE",1981,89160
+"Taxes on Service and Goods","STATE",1982,97219
+"Taxes on Service and Goods","STATE",1983,102436
+"Taxes on Service and Goods","STATE",1984,115489
+"Taxes on Service and Goods","STATE",1985,126501
+"Taxes on Service and Goods","STATE",1986,133832
+"Taxes on Service and Goods","STATE",1987,140309
+"Taxes on Service and Goods","STATE",1988,152005
+"Taxes on Service and Goods","STATE",1989,160574
+"Taxes on Service and Goods","STATE",1990,177328
+"Taxes on Service and Goods","STATE",1991,182978
+"Taxes on Service and Goods","STATE",1992,197545
+"Taxes on Service and Goods","STATE",1993,207510
+"Taxes on Service and Goods","STATE",1994,221231
+"Taxes on Service and Goods","STATE",1995,232033
+"Taxes on Service and Goods","STATE",1996,243803
+"Taxes on Service and Goods","STATE",1997,255094
+"Taxes on Service and Goods","STATE",1998,267286
+"Taxes on Service and Goods","STATE",1999,280948
+"Taxes on Service and Goods","STATE",2000,294740
+"Taxes on Service and Goods","STATE",2001,299899
+"Taxes on Service and Goods","STATE",2002,306229
+"Taxes on Service and Goods","STATE",2003,323572
+"Taxes on Service and Goods","STATE",2004,348954
+"Taxes on Service and Goods","STATE",2005,377795
+"Taxes on Service and Goods","STATE",2006,402493
+"Taxes on Service and Goods","STATE",2007,417189
+"Taxes on Service and Goods","STATE",2008,425196
+"Taxes on Service and Goods","STATE",2009,391464
+"Taxes on Service and Goods","STATE",2010,419147
+"Taxes on Service and Goods","STATE",2011,442109
+"Taxes on Service and Goods","STATE",2012,457403
+"Taxes on Service and Goods","STATE",2013,479201
+"Taxes on Service and Goods","STATE",2014,494824
+"Taxes on Service and Goods","STATE",2015,499670
+"Taxes on Service and Goods","STATE",2016,507134
+"Taxes on Service and Goods","STATE",2017,524112
+"Taxes on Service and Goods","STATE",2018,547989
+"Taxes on Service and Goods","LOCAL",1973,6482
+"Taxes on Service and Goods","LOCAL",1974,0
+"Taxes on Service and Goods","LOCAL",1975,8389
+"Taxes on Service and Goods","LOCAL",1976,0
+"Taxes on Service and Goods","LOCAL",1977,10805
+"Taxes on Service and Goods","LOCAL",1978,0
+"Taxes on Service and Goods","LOCAL",1979,13888
+"Taxes on Service and Goods","LOCAL",1980,15839
+"Taxes on Service and Goods","LOCAL",1981,17278
+"Taxes on Service and Goods","LOCAL",1982,18793
+"Taxes on Service and Goods","LOCAL",1983,20783
+"Taxes on Service and Goods","LOCAL",1984,23640
+"Taxes on Service and Goods","LOCAL",1985,26777
+"Taxes on Service and Goods","LOCAL",1986,29162
+"Taxes on Service and Goods","LOCAL",1987,31902
+"Taxes on Service and Goods","LOCAL",1988,34100
+"Taxes on Service and Goods","LOCAL",1989,36289
+"Taxes on Service and Goods","LOCAL",1990,43061
+"Taxes on Service and Goods","LOCAL",1991,44803
+"Taxes on Service and Goods","LOCAL",1992,47063
+"Taxes on Service and Goods","LOCAL",1993,50747
+"Taxes on Service and Goods","LOCAL",1994,54908
+"Taxes on Service and Goods","LOCAL",1995,57507
+"Taxes on Service and Goods","LOCAL",1996,60661
+"Taxes on Service and Goods","LOCAL",1997,64978
+"Taxes on Service and Goods","LOCAL",1998,69812
+"Taxes on Service and Goods","LOCAL",1999,75845
+"Taxes on Service and Goods","LOCAL",2000,82012
+"Taxes on Service and Goods","LOCAL",2001,84167
+"Taxes on Service and Goods","LOCAL",2002,85939
+"Taxes on Service and Goods","LOCAL",2003,87710
+"Taxes on Service and Goods","LOCAL",2004,98271
+"Taxes on Service and Goods","LOCAL",2005,108696
+"Taxes on Service and Goods","LOCAL",2006,116821
+"Taxes on Service and Goods","LOCAL",2007,120897
+"Taxes on Service and Goods","LOCAL",2008,119486
+"Taxes on Service and Goods","LOCAL",2009,116432
+"Taxes on Service and Goods","LOCAL",2010,119401
+"Taxes on Service and Goods","LOCAL",2011,124994
+"Taxes on Service and Goods","LOCAL",2012,130406
+"Taxes on Service and Goods","LOCAL",2013,135772
+"Taxes on Service and Goods","LOCAL",2014,143605
+"Taxes on Service and Goods","LOCAL",2015,150005
+"Taxes on Service and Goods","LOCAL",2016,156791
+"Taxes on Service and Goods","LOCAL",2017,164448
+"Taxes on Service and Goods","LOCAL",2018,172235
+"Taxes on Service and Goods","SOCSEC",1973,0
+"Taxes on Service and Goods","SOCSEC",1974,0
+"Taxes on Service and Goods","SOCSEC",1975,0
+"Taxes on Service and Goods","SOCSEC",1976,0
+"Taxes on Service and Goods","SOCSEC",1977,0
+"Taxes on Service and Goods","SOCSEC",1978,0
+"Taxes on Service and Goods","SOCSEC",1979,0
+"Taxes on Service and Goods","SOCSEC",1980,0
+"Taxes on Service and Goods","SOCSEC",1981,0
+"Taxes on Service and Goods","SOCSEC",1982,0
+"Taxes on Service and Goods","SOCSEC",1983,0
+"Taxes on Service and Goods","SOCSEC",1984,0
+"Taxes on Service and Goods","SOCSEC",1985,0
+"Taxes on Service and Goods","SOCSEC",1986,0
+"Taxes on Service and Goods","SOCSEC",1987,0
+"Taxes on Service and Goods","SOCSEC",1988,0
+"Taxes on Service and Goods","SOCSEC",1989,0
+"Taxes on Service and Goods","SOCSEC",1990,0
+"Taxes on Service and Goods","SOCSEC",1991,0
+"Taxes on Service and Goods","SOCSEC",1992,0
+"Taxes on Service and Goods","SOCSEC",1993,0
+"Taxes on Service and Goods","SOCSEC",1994,0
+"Taxes on Service and Goods","SOCSEC",1995,0
+"Taxes on Service and Goods","SOCSEC",1996,0
+"Taxes on Service and Goods","SOCSEC",1997,0
+"Taxes on Service and Goods","SOCSEC",1998,0
+"Taxes on Service and Goods","SOCSEC",1999,0
+"Taxes on Service and Goods","SOCSEC",2000,0
+"Taxes on Service and Goods","SOCSEC",2001,0
+"Taxes on Service and Goods","SOCSEC",2002,0
+"Taxes on Service and Goods","SOCSEC",2003,0
+"Taxes on Service and Goods","SOCSEC",2004,0
+"Taxes on Service and Goods","SOCSEC",2005,0
+"Taxes on Service and Goods","SOCSEC",2006,0
+"Taxes on Service and Goods","SOCSEC",2007,0
+"Taxes on Service and Goods","SOCSEC",2008,0
+"Taxes on Service and Goods","SOCSEC",2009,0
+"Taxes on Service and Goods","SOCSEC",2010,0
+"Taxes on Service and Goods","SOCSEC",2011,0
+"Taxes on Service and Goods","SOCSEC",2012,0
+"Taxes on Service and Goods","SOCSEC",2013,0
+"Taxes on Service and Goods","SOCSEC",2014,0
+"Taxes on Service and Goods","SOCSEC",2015,0
+"Taxes on Service and Goods","SOCSEC",2016,0
+"Taxes on Service and Goods","SOCSEC",2017,0
+"Taxes on Service and Goods","SOCSEC",2018,0
+"Taxes on Service and Goods","NES",1965,38017
+"Taxes on Service and Goods","NES",1966,39374
+"Taxes on Service and Goods","NES",1967,41772
+"Taxes on Service and Goods","NES",1968,45168
+"Taxes on Service and Goods","NES",1969,50343
+"Taxes on Service and Goods","NES",1970,55213
+"Taxes on Service and Goods","NES",1971,59840
+"Taxes on Service and Goods","NES",1972,64259
+"Taxes on Service and Goods","NES",1973,70164
+"Taxes on Service and Goods","NES",1974,76058
+"Taxes on Service and Goods","NES",1975,81194
+"Taxes on Service and Goods","NES",1976,89335
+"Taxes on Service and Goods","NES",1977,95820
+"Taxes on Service and Goods","NES",1978,106258
+"Taxes on Service and Goods","NES",1979,115487
+"Taxes on Service and Goods","NES",1980,128844
+"Taxes on Service and Goods","NES",1981,155348
+"Taxes on Service and Goods","NES",1982,161140
+"Taxes on Service and Goods","NES",1983,167129
+"Taxes on Service and Goods","NES",1984,187801
+"Taxes on Service and Goods","NES",1985,201305
+"Taxes on Service and Goods","NES",1986,209127
+"Taxes on Service and Goods","NES",1987,219575
+"Taxes on Service and Goods","NES",1988,237680
+"Taxes on Service and Goods","NES",1989,247059
+"Taxes on Service and Goods","NES",1990,271301
+"Taxes on Service and Goods","NES",1991,289546
+"Taxes on Service and Goods","NES",1992,307903
+"Taxes on Service and Goods","NES",1993,324615
+"Taxes on Service and Goods","NES",1994,355126
+"Taxes on Service and Goods","NES",1995,365093
+"Taxes on Service and Goods","NES",1996,377318
+"Taxes on Service and Goods","NES",1997,397909
+"Taxes on Service and Goods","NES",1998,417796
+"Taxes on Service and Goods","NES",1999,440225
+"Taxes on Service and Goods","NES",2000,464003
+"Taxes on Service and Goods","NES",2001,469349
+"Taxes on Service and Goods","NES",2002,478992
+"Taxes on Service and Goods","NES",2003,501490
+"Taxes on Service and Goods","NES",2004,542489
+"Taxes on Service and Goods","NES",2005,585902
+"Taxes on Service and Goods","NES",2006,618562
+"Taxes on Service and Goods","NES",2007,632712
+"Taxes on Service and Goods","NES",2008,638670
+"Taxes on Service and Goods","NES",2009,599281
+"Taxes on Service and Goods","NES",2010,635328
+"Taxes on Service and Goods","NES",2011,675727
+"Taxes on Service and Goods","NES",2012,702974
+"Taxes on Service and Goods","NES",2013,740452
+"Taxes on Service and Goods","NES",2014,774759
+"Taxes on Service and Goods","NES",2015,790048
+"Taxes on Service and Goods","NES",2016,801578
+"Taxes on Service and Goods","NES",2017,820024
+"Taxes on Service and Goods","NES",2018,880483
+"Other Taxes","FED",1973,0
+"Other Taxes","FED",1974,0
+"Other Taxes","FED",1975,0
+"Other Taxes","FED",1976,0
+"Other Taxes","FED",1977,0
+"Other Taxes","FED",1978,13
+"Other Taxes","FED",1979,14
+"Other Taxes","FED",1980,15
+"Other Taxes","FED",1981,14
+"Other Taxes","FED",1982,14
+"Other Taxes","FED",1983,13
+"Other Taxes","FED",1984,15
+"Other Taxes","FED",1985,16
+"Other Taxes","FED",1986,16
+"Other Taxes","FED",1987,16
+"Other Taxes","FED",1988,17
+"Other Taxes","FED",1989,16
+"Other Taxes","FED",1990,0
+"Other Taxes","FED",1991,0
+"Other Taxes","FED",1992,0
+"Other Taxes","FED",1993,0
+"Other Taxes","FED",1994,0
+"Other Taxes","FED",1995,0
+"Other Taxes","FED",1996,0
+"Other Taxes","FED",1997,0
+"Other Taxes","FED",1998,0
+"Other Taxes","FED",1999,0
+"Other Taxes","FED",2000,0
+"Other Taxes","FED",2001,0
+"Other Taxes","FED",2002,0
+"Other Taxes","FED",2003,0
+"Other Taxes","FED",2004,0
+"Other Taxes","FED",2005,0
+"Other Taxes","FED",2006,0
+"Other Taxes","FED",2007,0
+"Other Taxes","FED",2008,0
+"Other Taxes","FED",2009,0
+"Other Taxes","FED",2010,0
+"Other Taxes","FED",2011,0
+"Other Taxes","FED",2012,0
+"Other Taxes","FED",2013,0
+"Other Taxes","FED",2014,0
+"Other Taxes","FED",2015,0
+"Other Taxes","FED",2016,0
+"Other Taxes","FED",2017,0
+"Other Taxes","FED",2018,0
+"Other Taxes","STATE",1973,0
+"Other Taxes","STATE",1974,0
+"Other Taxes","STATE",1975,0
+"Other Taxes","STATE",1976,0
+"Other Taxes","STATE",1977,0
+"Other Taxes","STATE",1978,0
+"Other Taxes","STATE",1979,0
+"Other Taxes","STATE",1980,0
+"Other Taxes","STATE",1981,0
+"Other Taxes","STATE",1982,0
+"Other Taxes","STATE",1983,0
+"Other Taxes","STATE",1984,0
+"Other Taxes","STATE",1985,0
+"Other Taxes","STATE",1986,0
+"Other Taxes","STATE",1987,0
+"Other Taxes","STATE",1988,0
+"Other Taxes","STATE",1989,0
+"Other Taxes","STATE",1990,0
+"Other Taxes","STATE",1991,0
+"Other Taxes","STATE",1992,0
+"Other Taxes","STATE",1993,0
+"Other Taxes","STATE",1994,0
+"Other Taxes","STATE",1995,0
+"Other Taxes","STATE",1996,0
+"Other Taxes","STATE",1997,0
+"Other Taxes","STATE",1998,0
+"Other Taxes","STATE",1999,0
+"Other Taxes","STATE",2000,0
+"Other Taxes","STATE",2001,0
+"Other Taxes","STATE",2002,0
+"Other Taxes","STATE",2003,0
+"Other Taxes","STATE",2004,0
+"Other Taxes","STATE",2005,0
+"Other Taxes","STATE",2006,0
+"Other Taxes","STATE",2007,0
+"Other Taxes","STATE",2008,0
+"Other Taxes","STATE",2009,0
+"Other Taxes","STATE",2010,0
+"Other Taxes","STATE",2011,0
+"Other Taxes","STATE",2012,0
+"Other Taxes","STATE",2013,0
+"Other Taxes","STATE",2014,0
+"Other Taxes","STATE",2015,0
+"Other Taxes","STATE",2016,0
+"Other Taxes","STATE",2017,0
+"Other Taxes","LOCAL",1973,0
+"Other Taxes","LOCAL",1974,0
+"Other Taxes","LOCAL",1975,0
+"Other Taxes","LOCAL",1976,0
+"Other Taxes","LOCAL",1977,0
+"Other Taxes","LOCAL",1978,0
+"Other Taxes","LOCAL",1979,0
+"Other Taxes","LOCAL",1980,0
+"Other Taxes","LOCAL",1981,0
+"Other Taxes","LOCAL",1982,0
+"Other Taxes","LOCAL",1983,0
+"Other Taxes","LOCAL",1984,0
+"Other Taxes","LOCAL",1985,0
+"Other Taxes","LOCAL",1986,0
+"Other Taxes","LOCAL",1987,0
+"Other Taxes","LOCAL",1988,0
+"Other Taxes","LOCAL",1989,0
+"Other Taxes","LOCAL",1990,0
+"Other Taxes","LOCAL",1991,0
+"Other Taxes","LOCAL",1992,0
+"Other Taxes","LOCAL",1993,0
+"Other Taxes","LOCAL",1994,0
+"Other Taxes","LOCAL",1995,0
+"Other Taxes","LOCAL",1996,0
+"Other Taxes","LOCAL",1997,0
+"Other Taxes","LOCAL",1998,0
+"Other Taxes","LOCAL",1999,0
+"Other Taxes","LOCAL",2000,0
+"Other Taxes","LOCAL",2001,0
+"Other Taxes","LOCAL",2002,0
+"Other Taxes","LOCAL",2003,0
+"Other Taxes","LOCAL",2004,0
+"Other Taxes","LOCAL",2005,0
+"Other Taxes","LOCAL",2006,0
+"Other Taxes","LOCAL",2007,0
+"Other Taxes","LOCAL",2008,0
+"Other Taxes","LOCAL",2009,0
+"Other Taxes","LOCAL",2010,0
+"Other Taxes","LOCAL",2011,0
+"Other Taxes","LOCAL",2012,0
+"Other Taxes","LOCAL",2013,0
+"Other Taxes","LOCAL",2014,0
+"Other Taxes","LOCAL",2015,0
+"Other Taxes","LOCAL",2016,0
+"Other Taxes","LOCAL",2017,0
+"Other Taxes","LOCAL",2018,0
+"Other Taxes","SOCSEC",1973,0
+"Other Taxes","SOCSEC",1974,0
+"Other Taxes","SOCSEC",1975,0
+"Other Taxes","SOCSEC",1976,0
+"Other Taxes","SOCSEC",1977,0
+"Other Taxes","SOCSEC",1978,0
+"Other Taxes","SOCSEC",1979,0
+"Other Taxes","SOCSEC",1980,0
+"Other Taxes","SOCSEC",1981,0
+"Other Taxes","SOCSEC",1982,0
+"Other Taxes","SOCSEC",1983,0
+"Other Taxes","SOCSEC",1984,0
+"Other Taxes","SOCSEC",1985,0
+"Other Taxes","SOCSEC",1986,0
+"Other Taxes","SOCSEC",1987,0
+"Other Taxes","SOCSEC",1988,0
+"Other Taxes","SOCSEC",1989,0
+"Other Taxes","SOCSEC",1990,0
+"Other Taxes","SOCSEC",1991,0
+"Other Taxes","SOCSEC",1992,0
+"Other Taxes","SOCSEC",1993,0
+"Other Taxes","SOCSEC",1994,0
+"Other Taxes","SOCSEC",1995,0
+"Other Taxes","SOCSEC",1996,0
+"Other Taxes","SOCSEC",1997,0
+"Other Taxes","SOCSEC",1998,0
+"Other Taxes","SOCSEC",1999,0
+"Other Taxes","SOCSEC",2000,0
+"Other Taxes","SOCSEC",2001,0
+"Other Taxes","SOCSEC",2002,0
+"Other Taxes","SOCSEC",2003,0
+"Other Taxes","SOCSEC",2004,0
+"Other Taxes","SOCSEC",2005,0
+"Other Taxes","SOCSEC",2006,0
+"Other Taxes","SOCSEC",2007,0
+"Other Taxes","SOCSEC",2008,0
+"Other Taxes","SOCSEC",2009,0
+"Other Taxes","SOCSEC",2010,0
+"Other Taxes","SOCSEC",2011,0
+"Other Taxes","SOCSEC",2012,0
+"Other Taxes","SOCSEC",2013,0
+"Other Taxes","SOCSEC",2014,0
+"Other Taxes","SOCSEC",2015,0
+"Other Taxes","SOCSEC",2016,0
+"Other Taxes","SOCSEC",2017,0
+"Other Taxes","NES",1965,0
+"Other Taxes","NES",1966,0
+"Other Taxes","NES",1967,0
+"Other Taxes","NES",1968,0
+"Other Taxes","NES",1969,0
+"Other Taxes","NES",1970,0
+"Other Taxes","NES",1971,0
+"Other Taxes","NES",1972,0
+"Other Taxes","NES",1973,0
+"Other Taxes","NES",1974,0
+"Other Taxes","NES",1975,0
+"Other Taxes","NES",1976,0
+"Other Taxes","NES",1977,0
+"Other Taxes","NES",1978,13
+"Other Taxes","NES",1979,14
+"Other Taxes","NES",1980,15
+"Other Taxes","NES",1981,14
+"Other Taxes","NES",1982,14
+"Other Taxes","NES",1983,13
+"Other Taxes","NES",1984,15
+"Other Taxes","NES",1985,16
+"Other Taxes","NES",1986,16
+"Other Taxes","NES",1987,16
+"Other Taxes","NES",1988,17
+"Other Taxes","NES",1989,16
+"Other Taxes","NES",1990,0
+"Other Taxes","NES",1991,0
+"Other Taxes","NES",1992,0
+"Other Taxes","NES",1993,0
+"Other Taxes","NES",1994,0
+"Other Taxes","NES",1995,0
+"Other Taxes","NES",1996,0
+"Other Taxes","NES",1997,0
+"Other Taxes","NES",1998,0
+"Other Taxes","NES",1999,0
+"Other Taxes","NES",2000,0
+"Other Taxes","NES",2001,0
+"Other Taxes","NES",2002,0
+"Other Taxes","NES",2003,0
+"Other Taxes","NES",2004,0
+"Other Taxes","NES",2005,0
+"Other Taxes","NES",2006,0
+"Other Taxes","NES",2007,0
+"Other Taxes","NES",2008,0
+"Other Taxes","NES",2009,0
+"Other Taxes","NES",2010,0
+"Other Taxes","NES",2011,0
+"Other Taxes","NES",2012,0
+"Other Taxes","NES",2013,0
+"Other Taxes","NES",2014,0
+"Other Taxes","NES",2015,0
+"Other Taxes","NES",2016,0
+"Other Taxes","NES",2017,0
+"Other Taxes","NES",2018,0
+"Social Security Tax","FED",1973,0
+"Social Security Tax","FED",1974,0
+"Social Security Tax","FED",1975,0
+"Social Security Tax","FED",1976,0
+"Social Security Tax","FED",1977,0
+"Social Security Tax","FED",1978,0
+"Social Security Tax","FED",1979,0
+"Social Security Tax","FED",1980,0
+"Social Security Tax","FED",1981,0
+"Social Security Tax","FED",1982,0
+"Social Security Tax","FED",1983,0
+"Social Security Tax","FED",1984,0
+"Social Security Tax","FED",1985,0
+"Social Security Tax","FED",1986,0
+"Social Security Tax","FED",1987,0
+"Social Security Tax","FED",1988,0
+"Social Security Tax","FED",1989,0
+"Social Security Tax","FED",1990,0
+"Social Security Tax","FED",1991,0
+"Social Security Tax","FED",1992,0
+"Social Security Tax","FED",1993,0
+"Social Security Tax","FED",1994,0
+"Social Security Tax","FED",1995,0
+"Social Security Tax","FED",1996,0
+"Social Security Tax","FED",1997,0
+"Social Security Tax","FED",1998,0
+"Social Security Tax","FED",1999,0
+"Social Security Tax","FED",2000,0
+"Social Security Tax","FED",2001,0
+"Social Security Tax","FED",2002,0
+"Social Security Tax","FED",2003,0
+"Social Security Tax","FED",2004,0
+"Social Security Tax","FED",2005,0
+"Social Security Tax","FED",2006,0
+"Social Security Tax","FED",2007,0
+"Social Security Tax","FED",2008,0
+"Social Security Tax","FED",2009,0
+"Social Security Tax","FED",2010,0
+"Social Security Tax","FED",2011,0
+"Social Security Tax","FED",2012,0
+"Social Security Tax","FED",2013,0
+"Social Security Tax","FED",2014,0
+"Social Security Tax","FED",2015,0
+"Social Security Tax","FED",2016,0
+"Social Security Tax","FED",2017,0
+"Social Security Tax","FED",2018,0
+"Social Security Tax","STATE",1973,0
+"Social Security Tax","STATE",1974,0
+"Social Security Tax","STATE",1975,0
+"Social Security Tax","STATE",1976,0
+"Social Security Tax","STATE",1977,0
+"Social Security Tax","STATE",1978,0
+"Social Security Tax","STATE",1979,0
+"Social Security Tax","STATE",1980,0
+"Social Security Tax","STATE",1981,0
+"Social Security Tax","STATE",1982,0
+"Social Security Tax","STATE",1983,0
+"Social Security Tax","STATE",1984,0
+"Social Security Tax","STATE",1985,0
+"Social Security Tax","STATE",1986,0
+"Social Security Tax","STATE",1987,0
+"Social Security Tax","STATE",1988,0
+"Social Security Tax","STATE",1989,0
+"Social Security Tax","STATE",1990,0
+"Social Security Tax","STATE",1991,0
+"Social Security Tax","STATE",1992,0
+"Social Security Tax","STATE",1993,0
+"Social Security Tax","STATE",1994,0
+"Social Security Tax","STATE",1995,0
+"Social Security Tax","STATE",1996,0
+"Social Security Tax","STATE",1997,0
+"Social Security Tax","STATE",1998,0
+"Social Security Tax","STATE",1999,0
+"Social Security Tax","STATE",2000,0
+"Social Security Tax","STATE",2001,0
+"Social Security Tax","STATE",2002,0
+"Social Security Tax","STATE",2003,0
+"Social Security Tax","STATE",2004,0
+"Social Security Tax","STATE",2005,0
+"Social Security Tax","STATE",2006,0
+"Social Security Tax","STATE",2007,0
+"Social Security Tax","STATE",2008,0
+"Social Security Tax","STATE",2009,0
+"Social Security Tax","STATE",2010,0
+"Social Security Tax","STATE",2011,0
+"Social Security Tax","STATE",2012,0
+"Social Security Tax","STATE",2013,0
+"Social Security Tax","STATE",2014,0
+"Social Security Tax","STATE",2015,0
+"Social Security Tax","STATE",2016,0
+"Social Security Tax","STATE",2017,0
+"Social Security Tax","STATE",2018,0
+"Social Security Tax","LOCAL",1973,0
+"Social Security Tax","LOCAL",1974,0
+"Social Security Tax","LOCAL",1975,0
+"Social Security Tax","LOCAL",1976,0
+"Social Security Tax","LOCAL",1977,0
+"Social Security Tax","LOCAL",1978,0
+"Social Security Tax","LOCAL",1979,0
+"Social Security Tax","LOCAL",1980,0
+"Social Security Tax","LOCAL",1981,0
+"Social Security Tax","LOCAL",1982,0
+"Social Security Tax","LOCAL",1983,0
+"Social Security Tax","LOCAL",1984,0
+"Social Security Tax","LOCAL",1985,0
+"Social Security Tax","LOCAL",1986,0
+"Social Security Tax","LOCAL",1987,0
+"Social Security Tax","LOCAL",1988,0
+"Social Security Tax","LOCAL",1989,0
+"Social Security Tax","LOCAL",1990,0
+"Social Security Tax","LOCAL",1991,0
+"Social Security Tax","LOCAL",1992,0
+"Social Security Tax","LOCAL",1993,0
+"Social Security Tax","LOCAL",1994,0
+"Social Security Tax","LOCAL",1995,0
+"Social Security Tax","LOCAL",1996,0
+"Social Security Tax","LOCAL",1997,0
+"Social Security Tax","LOCAL",1998,0
+"Social Security Tax","LOCAL",1999,0
+"Social Security Tax","LOCAL",2000,0
+"Social Security Tax","LOCAL",2001,0
+"Social Security Tax","LOCAL",2002,0
+"Social Security Tax","LOCAL",2003,0
+"Social Security Tax","LOCAL",2004,0
+"Social Security Tax","LOCAL",2005,0
+"Social Security Tax","LOCAL",2006,0
+"Social Security Tax","LOCAL",2007,0
+"Social Security Tax","LOCAL",2008,0
+"Social Security Tax","LOCAL",2009,0
+"Social Security Tax","LOCAL",2010,0
+"Social Security Tax","LOCAL",2011,0
+"Social Security Tax","LOCAL",2012,0
+"Social Security Tax","LOCAL",2013,0
+"Social Security Tax","LOCAL",2014,0
+"Social Security Tax","LOCAL",2015,0
+"Social Security Tax","LOCAL",2016,0
+"Social Security Tax","LOCAL",2017,0
+"Social Security Tax","LOCAL",2018,0
+"Social Security Tax","SOCSEC",1973,63404
+"Social Security Tax","SOCSEC",1974,75476
+"Social Security Tax","SOCSEC",1975,85039
+"Social Security Tax","SOCSEC",1976,91386
+"Social Security Tax","SOCSEC",1977,107735
+"Social Security Tax","SOCSEC",1978,122748
+"Social Security Tax","SOCSEC",1979,141162
+"Social Security Tax","SOCSEC",1980,159763
+"Social Security Tax","SOCSEC",1981,185373
+"Social Security Tax","SOCSEC",1982,203846
+"Social Security Tax","SOCSEC",1983,211491
+"Social Security Tax","SOCSEC",1984,242555
+"Social Security Tax","SOCSEC",1985,269144
+"Social Security Tax","SOCSEC",1986,289039
+"Social Security Tax","SOCSEC",1987,310185
+"Social Security Tax","SOCSEC",1988,343186
+"Social Security Tax","SOCSEC",1989,370413
+"Social Security Tax","SOCSEC",1990,396972
+"Social Security Tax","SOCSEC",1991,415220
+"Social Security Tax","SOCSEC",1992,437751
+"Social Security Tax","SOCSEC",1993,458174
+"Social Security Tax","SOCSEC",1994,487580
+"Social Security Tax","SOCSEC",1995,510476
+"Social Security Tax","SOCSEC",1996,533666
+"Social Security Tax","SOCSEC",1997,565504
+"Social Security Tax","SOCSEC",1998,602915
+"Social Security Tax","SOCSEC",1999,638518
+"Social Security Tax","SOCSEC",2000,683104
+"Social Security Tax","SOCSEC",2001,707932
+"Social Security Tax","SOCSEC",2002,723678
+"Social Security Tax","SOCSEC",2003,748486
+"Social Security Tax","SOCSEC",2004,794037
+"Social Security Tax","SOCSEC",2005,831410
+"Social Security Tax","SOCSEC",2006,873157
+"Social Security Tax","SOCSEC",2007,907357
+"Social Security Tax","SOCSEC",2008,930149
+"Social Security Tax","SOCSEC",2009,902378
+"Social Security Tax","SOCSEC",2010,917409
+"Social Security Tax","SOCSEC",2011,847151
+"Social Security Tax","SOCSEC",2012,880301
+"Social Security Tax","SOCSEC",2013,1030098
+"Social Security Tax","SOCSEC",2014,1077038
+"Social Security Tax","SOCSEC",2015,1126110
+"Social Security Tax","SOCSEC",2016,1153644
+"Social Security Tax","SOCSEC",2017,1204452
+"Social Security Tax","SOCSEC",2018,1256673
+"Social Security Tax","NES",1965,22192
+"Social Security Tax","NES",1966,25601
+"Social Security Tax","NES",1967,32927
+"Social Security Tax","NES",1968,34111
+"Social Security Tax","NES",1969,39384
+"Social Security Tax","NES",1970,44517
+"Social Security Tax","NES",1971,47348
+"Social Security Tax","NES",1972,52716
+"Social Security Tax","NES",1973,63404
+"Social Security Tax","NES",1974,75476
+"Social Security Tax","NES",1975,85039
+"Social Security Tax","NES",1976,91386
+"Social Security Tax","NES",1977,107735
+"Social Security Tax","NES",1978,122748
+"Social Security Tax","NES",1979,141162
+"Social Security Tax","NES",1980,159763
+"Social Security Tax","NES",1981,185373
+"Social Security Tax","NES",1982,203846
+"Social Security Tax","NES",1983,211491
+"Social Security Tax","NES",1984,242555
+"Social Security Tax","NES",1985,269144
+"Social Security Tax","NES",1986,289039
+"Social Security Tax","NES",1987,310185
+"Social Security Tax","NES",1988,343186
+"Social Security Tax","NES",1989,370413
+"Social Security Tax","NES",1990,396972
+"Social Security Tax","NES",1991,415220
+"Social Security Tax","NES",1992,437751
+"Social Security Tax","NES",1993,458174
+"Social Security Tax","NES",1994,487580
+"Social Security Tax","NES",1995,510476
+"Social Security Tax","NES",1996,533666
+"Social Security Tax","NES",1997,565504
+"Social Security Tax","NES",1998,602915
+"Social Security Tax","NES",1999,638518
+"Social Security Tax","NES",2000,683104
+"Social Security Tax","NES",2001,707932
+"Social Security Tax","NES",2002,723678
+"Social Security Tax","NES",2003,748486
+"Social Security Tax","NES",2004,794037
+"Social Security Tax","NES",2005,831410
+"Social Security Tax","NES",2006,873157
+"Social Security Tax","NES",2007,907357
+"Social Security Tax","NES",2008,930149
+"Social Security Tax","NES",2009,902378
+"Social Security Tax","NES",2010,917409
+"Social Security Tax","NES",2011,847151
+"Social Security Tax","NES",2012,880301
+"Social Security Tax","NES",2013,1030098
+"Social Security Tax","NES",2014,1077038
+"Social Security Tax","NES",2015,1126110
+"Social Security Tax","NES",2016,1153644
+"Social Security Tax","NES",2017,1204452
+"Social Security Tax","NES",2018,1256673
+"Payroll Tax","FED",1973,0
+"Payroll Tax","FED",1974,0
+"Payroll Tax","FED",1975,0
+"Payroll Tax","FED",1976,0
+"Payroll Tax","FED",1977,0
+"Payroll Tax","FED",1978,0
+"Payroll Tax","FED",1979,0
+"Payroll Tax","FED",1980,0
+"Payroll Tax","FED",1981,0
+"Payroll Tax","FED",1982,0
+"Payroll Tax","FED",1983,0
+"Payroll Tax","FED",1984,0
+"Payroll Tax","FED",1985,0
+"Payroll Tax","FED",1986,0
+"Payroll Tax","FED",1987,0
+"Payroll Tax","FED",1988,0
+"Payroll Tax","FED",1989,0
+"Payroll Tax","FED",1990,0
+"Payroll Tax","FED",1991,0
+"Payroll Tax","FED",1992,0
+"Payroll Tax","FED",1993,0
+"Payroll Tax","FED",1994,0
+"Payroll Tax","FED",1995,0
+"Payroll Tax","FED",1996,0
+"Payroll Tax","FED",1997,0
+"Payroll Tax","FED",1998,0
+"Payroll Tax","FED",1999,0
+"Payroll Tax","FED",2000,0
+"Payroll Tax","FED",2001,0
+"Payroll Tax","FED",2002,0
+"Payroll Tax","FED",2003,0
+"Payroll Tax","FED",2004,0
+"Payroll Tax","FED",2005,0
+"Payroll Tax","FED",2006,0
+"Payroll Tax","FED",2007,0
+"Payroll Tax","FED",2008,0
+"Payroll Tax","FED",2009,0
+"Payroll Tax","FED",2010,0
+"Payroll Tax","FED",2011,0
+"Payroll Tax","FED",2012,0
+"Payroll Tax","FED",2013,0
+"Payroll Tax","FED",2014,0
+"Payroll Tax","FED",2015,0
+"Payroll Tax","FED",2016,0
+"Payroll Tax","FED",2017,0
+"Payroll Tax","STATE",1973,0
+"Payroll Tax","STATE",1974,0
+"Payroll Tax","STATE",1975,0
+"Payroll Tax","STATE",1976,0
+"Payroll Tax","STATE",1977,0
+"Payroll Tax","STATE",1978,0
+"Payroll Tax","STATE",1979,0
+"Payroll Tax","STATE",1980,0
+"Payroll Tax","STATE",1981,0
+"Payroll Tax","STATE",1982,0
+"Payroll Tax","STATE",1983,0
+"Payroll Tax","STATE",1984,0
+"Payroll Tax","STATE",1985,0
+"Payroll Tax","STATE",1986,0
+"Payroll Tax","STATE",1987,0
+"Payroll Tax","STATE",1988,0
+"Payroll Tax","STATE",1989,0
+"Payroll Tax","STATE",1990,0
+"Payroll Tax","STATE",1991,0
+"Payroll Tax","STATE",1992,0
+"Payroll Tax","STATE",1993,0
+"Payroll Tax","STATE",1994,0
+"Payroll Tax","STATE",1995,0
+"Payroll Tax","STATE",1996,0
+"Payroll Tax","STATE",1997,0
+"Payroll Tax","STATE",1998,0
+"Payroll Tax","STATE",1999,0
+"Payroll Tax","STATE",2000,0
+"Payroll Tax","STATE",2001,0
+"Payroll Tax","STATE",2002,0
+"Payroll Tax","STATE",2003,0
+"Payroll Tax","STATE",2004,0
+"Payroll Tax","STATE",2005,0
+"Payroll Tax","STATE",2006,0
+"Payroll Tax","STATE",2007,285
+"Payroll Tax","STATE",2008,269
+"Payroll Tax","STATE",2009,308
+"Payroll Tax","STATE",2010,2285
+"Payroll Tax","STATE",2011,1764
+"Payroll Tax","STATE",2012,1696
+"Payroll Tax","STATE",2013,1591
+"Payroll Tax","STATE",2014,1653
+"Payroll Tax","STATE",2015,1745
+"Payroll Tax","STATE",2016,1876
+"Payroll Tax","STATE",2017,2050
+"Payroll Tax","STATE",2018,2090
+"Payroll Tax","LOCAL",1973,0
+"Payroll Tax","LOCAL",1974,0
+"Payroll Tax","LOCAL",1975,0
+"Payroll Tax","LOCAL",1976,0
+"Payroll Tax","LOCAL",1977,0
+"Payroll Tax","LOCAL",1978,0
+"Payroll Tax","LOCAL",1979,0
+"Payroll Tax","LOCAL",1980,0
+"Payroll Tax","LOCAL",1981,0
+"Payroll Tax","LOCAL",1982,0
+"Payroll Tax","LOCAL",1983,0
+"Payroll Tax","LOCAL",1984,0
+"Payroll Tax","LOCAL",1985,0
+"Payroll Tax","LOCAL",1986,0
+"Payroll Tax","LOCAL",1987,0
+"Payroll Tax","LOCAL",1988,0
+"Payroll Tax","LOCAL",1989,0
+"Payroll Tax","LOCAL",1990,0
+"Payroll Tax","LOCAL",1991,0
+"Payroll Tax","LOCAL",1992,0
+"Payroll Tax","LOCAL",1993,0
+"Payroll Tax","LOCAL",1994,0
+"Payroll Tax","LOCAL",1995,0
+"Payroll Tax","LOCAL",1996,0
+"Payroll Tax","LOCAL",1997,0
+"Payroll Tax","LOCAL",1998,0
+"Payroll Tax","LOCAL",1999,0
+"Payroll Tax","LOCAL",2000,0
+"Payroll Tax","LOCAL",2001,0
+"Payroll Tax","LOCAL",2002,0
+"Payroll Tax","LOCAL",2003,0
+"Payroll Tax","LOCAL",2004,0
+"Payroll Tax","LOCAL",2005,0
+"Payroll Tax","LOCAL",2006,0
+"Payroll Tax","LOCAL",2007,0
+"Payroll Tax","LOCAL",2008,0
+"Payroll Tax","LOCAL",2009,0
+"Payroll Tax","LOCAL",2010,0
+"Payroll Tax","LOCAL",2011,0
+"Payroll Tax","LOCAL",2012,0
+"Payroll Tax","LOCAL",2013,0
+"Payroll Tax","LOCAL",2014,0
+"Payroll Tax","LOCAL",2015,0
+"Payroll Tax","LOCAL",2016,0
+"Payroll Tax","LOCAL",2017,0
+"Payroll Tax","SOCSEC",1973,0
+"Payroll Tax","SOCSEC",1974,0
+"Payroll Tax","SOCSEC",1975,0
+"Payroll Tax","SOCSEC",1976,0
+"Payroll Tax","SOCSEC",1977,0
+"Payroll Tax","SOCSEC",1978,0
+"Payroll Tax","SOCSEC",1979,0
+"Payroll Tax","SOCSEC",1980,0
+"Payroll Tax","SOCSEC",1981,0
+"Payroll Tax","SOCSEC",1982,0
+"Payroll Tax","SOCSEC",1983,0
+"Payroll Tax","SOCSEC",1984,0
+"Payroll Tax","SOCSEC",1985,0
+"Payroll Tax","SOCSEC",1986,0
+"Payroll Tax","SOCSEC",1987,0
+"Payroll Tax","SOCSEC",1988,0
+"Payroll Tax","SOCSEC",1989,0
+"Payroll Tax","SOCSEC",1990,0
+"Payroll Tax","SOCSEC",1991,0
+"Payroll Tax","SOCSEC",1992,0
+"Payroll Tax","SOCSEC",1993,0
+"Payroll Tax","SOCSEC",1994,0
+"Payroll Tax","SOCSEC",1995,0
+"Payroll Tax","SOCSEC",1996,0
+"Payroll Tax","SOCSEC",1997,0
+"Payroll Tax","SOCSEC",1998,0
+"Payroll Tax","SOCSEC",1999,0
+"Payroll Tax","SOCSEC",2000,0
+"Payroll Tax","SOCSEC",2001,0
+"Payroll Tax","SOCSEC",2002,0
+"Payroll Tax","SOCSEC",2003,0
+"Payroll Tax","SOCSEC",2004,0
+"Payroll Tax","SOCSEC",2005,0
+"Payroll Tax","SOCSEC",2006,0
+"Payroll Tax","SOCSEC",2007,0
+"Payroll Tax","SOCSEC",2008,0
+"Payroll Tax","SOCSEC",2009,0
+"Payroll Tax","SOCSEC",2010,0
+"Payroll Tax","SOCSEC",2011,0
+"Payroll Tax","SOCSEC",2012,0
+"Payroll Tax","SOCSEC",2013,0
+"Payroll Tax","SOCSEC",2014,0
+"Payroll Tax","SOCSEC",2015,0
+"Payroll Tax","SOCSEC",2016,0
+"Payroll Tax","SOCSEC",2017,0
+"Payroll Tax","NES",1965,0
+"Payroll Tax","NES",1966,0
+"Payroll Tax","NES",1967,0
+"Payroll Tax","NES",1968,0
+"Payroll Tax","NES",1969,0
+"Payroll Tax","NES",1970,0
+"Payroll Tax","NES",1971,0
+"Payroll Tax","NES",1972,0
+"Payroll Tax","NES",1973,0
+"Payroll Tax","NES",1974,0
+"Payroll Tax","NES",1975,0
+"Payroll Tax","NES",1976,0
+"Payroll Tax","NES",1977,0
+"Payroll Tax","NES",1978,0
+"Payroll Tax","NES",1979,0
+"Payroll Tax","NES",1980,0
+"Payroll Tax","NES",1981,0
+"Payroll Tax","NES",1982,0
+"Payroll Tax","NES",1983,0
+"Payroll Tax","NES",1984,0
+"Payroll Tax","NES",1985,0
+"Payroll Tax","NES",1986,0
+"Payroll Tax","NES",1987,0
+"Payroll Tax","NES",1988,0
+"Payroll Tax","NES",1989,0
+"Payroll Tax","NES",1990,0
+"Payroll Tax","NES",2000,0
+"Payroll Tax","NES",2007,285
+"Payroll Tax","NES",2008,269
+"Payroll Tax","NES",2009,308
+"Payroll Tax","NES",2010,2285
+"Payroll Tax","NES",2011,1764
+"Payroll Tax","NES",2012,1696
+"Payroll Tax","NES",2013,1591
+"Payroll Tax","NES",2014,1653
+"Payroll Tax","NES",2015,1745
+"Payroll Tax","NES",2016,1876
+"Payroll Tax","NES",2017,2050
+"Payroll Tax","NES",2018,2090
+"Property Tax","FED",1973,4986
+"Property Tax","FED",1974,5097
+"Property Tax","FED",1975,4613
+"Property Tax","FED",1976,5217
+"Property Tax","FED",1977,7327
+"Property Tax","FED",1978,5285
+"Property Tax","FED",1979,5411
+"Property Tax","FED",1980,6390
+"Property Tax","FED",1981,6787
+"Property Tax","FED",1982,7991
+"Property Tax","FED",1983,6053
+"Property Tax","FED",1984,6010
+"Property Tax","FED",1985,6422
+"Property Tax","FED",1986,6958
+"Property Tax","FED",1987,7493
+"Property Tax","FED",1988,7594
+"Property Tax","FED",1989,8745
+"Property Tax","FED",1990,11597
+"Property Tax","FED",1991,11000
+"Property Tax","FED",1992,11281
+"Property Tax","FED",1993,12903
+"Property Tax","FED",1994,15108
+"Property Tax","FED",1995,14948
+"Property Tax","FED",1996,17489
+"Property Tax","FED",1997,20564
+"Property Tax","FED",1998,25159
+"Property Tax","FED",1999,28770
+"Property Tax","FED",2000,28101
+"Property Tax","FED",2001,27951
+"Property Tax","FED",2002,25302
+"Property Tax","FED",2003,21976
+"Property Tax","FED",2004,24615
+"Property Tax","FED",2005,24989
+"Property Tax","FED",2006,27833
+"Property Tax","FED",2007,26471
+"Property Tax","FED",2008,28263
+"Property Tax","FED",2009,20611
+"Property Tax","FED",2010,15079
+"Property Tax","FED",2011,9644
+"Property Tax","FED",2012,14074
+"Property Tax","FED",2013,20872
+"Property Tax","FED",2014,18793
+"Property Tax","FED",2015,20191
+"Property Tax","FED",2016,20053
+"Property Tax","FED",2017,273151
+"Property Tax","FED",2018,23348
+"Property Tax","STATE",1973,3306
+"Property Tax","STATE",1974,49682
+"Property Tax","STATE",1975,3284
+"Property Tax","STATE",1976,59059
+"Property Tax","STATE",1977,4696
+"Property Tax","STATE",1978,69011
+"Property Tax","STATE",1979,5346
+"Property Tax","STATE",1980,5916
+"Property Tax","STATE",1981,6040
+"Property Tax","STATE",1982,6173
+"Property Tax","STATE",1983,6503
+"Property Tax","STATE",1984,7301
+"Property Tax","STATE",1985,7902
+"Property Tax","STATE",1986,8781
+"Property Tax","STATE",1987,10277
+"Property Tax","STATE",1988,10645
+"Property Tax","STATE",1989,11301
+"Property Tax","STATE",1990,12206
+"Property Tax","STATE",1991,12801
+"Property Tax","STATE",1992,14453
+"Property Tax","STATE",1993,14847
+"Property Tax","STATE",1994,16618
+"Property Tax","STATE",1995,16880
+"Property Tax","STATE",1996,19075
+"Property Tax","STATE",1997,19695
+"Property Tax","STATE",1998,22272
+"Property Tax","STATE",1999,24108
+"Property Tax","STATE",2000,21898
+"Property Tax","STATE",2001,22930
+"Property Tax","STATE",2002,22965
+"Property Tax","STATE",2003,25223
+"Property Tax","STATE",2004,25167
+"Property Tax","STATE",2005,28808
+"Property Tax","STATE",2006,28603
+"Property Tax","STATE",2007,27237
+"Property Tax","STATE",2008,24144
+"Property Tax","STATE",2009,22142
+"Property Tax","STATE",2010,23076
+"Property Tax","STATE",2011,23062
+"Property Tax","STATE",2012,23611
+"Property Tax","STATE",2013,27686
+"Property Tax","STATE",2014,28175
+"Property Tax","STATE",2015,28998
+"Property Tax","STATE",2016,31101
+"Property Tax","STATE",2017,31868
+"Property Tax","STATE",2018,33343
+"Property Tax","LOCAL",1973,43970
+"Property Tax","LOCAL",1974,0
+"Property Tax","LOCAL",1975,50040
+"Property Tax","LOCAL",1976,0
+"Property Tax","LOCAL",1977,60275
+"Property Tax","LOCAL",1978,0
+"Property Tax","LOCAL",1979,62453
+"Property Tax","LOCAL",1980,65607
+"Property Tax","LOCAL",1981,72020
+"Property Tax","LOCAL",1982,78805
+"Property Tax","LOCAL",1983,85973
+"Property Tax","LOCAL",1984,92595
+"Property Tax","LOCAL",1985,99772
+"Property Tax","LOCAL",1986,107356
+"Property Tax","LOCAL",1987,116710
+"Property Tax","LOCAL",1988,127287
+"Property Tax","LOCAL",1989,137197
+"Property Tax","LOCAL",1990,158605
+"Property Tax","LOCAL",1991,172930
+"Property Tax","LOCAL",1992,180460
+"Property Tax","LOCAL",1993,183238
+"Property Tax","LOCAL",1994,194372
+"Property Tax","LOCAL",1995,197392
+"Property Tax","LOCAL",1996,206327
+"Property Tax","LOCAL",1997,217750
+"Property Tax","LOCAL",1998,224839
+"Property Tax","LOCAL",1999,236140
+"Property Tax","LOCAL",2000,249547
+"Property Tax","LOCAL",2001,262838
+"Property Tax","LOCAL",2002,285984
+"Property Tax","LOCAL",2003,307404
+"Property Tax","LOCAL",2004,330520
+"Property Tax","LOCAL",2005,359344
+"Property Tax","LOCAL",2006,382035
+"Property Tax","LOCAL",2007,409343
+"Property Tax","LOCAL",2008,418887
+"Property Tax","LOCAL",2009,436582
+"Property Tax","LOCAL",2010,435266
+"Property Tax","LOCAL",2011,437086
+"Property Tax","LOCAL",2012,443044
+"Property Tax","LOCAL",2013,454662
+"Property Tax","LOCAL",2014,473261
+"Property Tax","LOCAL",2015,486956
+"Property Tax","LOCAL",2016,507901
+"Property Tax","LOCAL",2017,532699
+"Property Tax","LOCAL",2018,554236
+"Property Tax","SOCSEC",1973,0
+"Property Tax","SOCSEC",1974,0
+"Property Tax","SOCSEC",1975,0
+"Property Tax","SOCSEC",1976,0
+"Property Tax","SOCSEC",1977,0
+"Property Tax","SOCSEC",1978,0
+"Property Tax","SOCSEC",1979,0
+"Property Tax","SOCSEC",1980,0
+"Property Tax","SOCSEC",1981,0
+"Property Tax","SOCSEC",1982,0
+"Property Tax","SOCSEC",1983,0
+"Property Tax","SOCSEC",1984,0
+"Property Tax","SOCSEC",1985,0
+"Property Tax","SOCSEC",1986,0
+"Property Tax","SOCSEC",1987,0
+"Property Tax","SOCSEC",1988,0
+"Property Tax","SOCSEC",1989,0
+"Property Tax","SOCSEC",1990,0
+"Property Tax","SOCSEC",1991,0
+"Property Tax","SOCSEC",1992,0
+"Property Tax","SOCSEC",1993,0
+"Property Tax","SOCSEC",1994,0
+"Property Tax","SOCSEC",1995,0
+"Property Tax","SOCSEC",1996,0
+"Property Tax","SOCSEC",1997,0
+"Property Tax","SOCSEC",1998,0
+"Property Tax","SOCSEC",1999,0
+"Property Tax","SOCSEC",2000,0
+"Property Tax","SOCSEC",2001,0
+"Property Tax","SOCSEC",2002,0
+"Property Tax","SOCSEC",2003,0
+"Property Tax","SOCSEC",2004,0
+"Property Tax","SOCSEC",2005,0
+"Property Tax","SOCSEC",2006,0
+"Property Tax","SOCSEC",2007,0
+"Property Tax","SOCSEC",2008,0
+"Property Tax","SOCSEC",2009,0
+"Property Tax","SOCSEC",2010,0
+"Property Tax","SOCSEC",2011,0
+"Property Tax","SOCSEC",2012,0
+"Property Tax","SOCSEC",2013,0
+"Property Tax","SOCSEC",2014,0
+"Property Tax","SOCSEC",2015,0
+"Property Tax","SOCSEC",2016,0
+"Property Tax","SOCSEC",2017,0
+"Property Tax","SOCSEC",2018,0
+"Property Tax","NES",1965,26529
+"Property Tax","NES",1966,28758
+"Property Tax","NES",1967,30291
+"Property Tax","NES",1968,32085
+"Property Tax","NES",1969,35681
+"Property Tax","NES",1970,39163
+"Property Tax","NES",1971,43140
+"Property Tax","NES",1972,49440
+"Property Tax","NES",1973,52262
+"Property Tax","NES",1974,54779
+"Property Tax","NES",1975,57937
+"Property Tax","NES",1976,64276
+"Property Tax","NES",1977,72298
+"Property Tax","NES",1978,74296
+"Property Tax","NES",1979,73210
+"Property Tax","NES",1980,77913
+"Property Tax","NES",1981,84847
+"Property Tax","NES",1982,92969
+"Property Tax","NES",1983,98529
+"Property Tax","NES",1984,105906
+"Property Tax","NES",1985,114096
+"Property Tax","NES",1986,123095
+"Property Tax","NES",1987,134480
+"Property Tax","NES",1988,145526
+"Property Tax","NES",1989,157243
+"Property Tax","NES",1990,182408
+"Property Tax","NES",1991,196731
+"Property Tax","NES",1992,206194
+"Property Tax","NES",1993,210988
+"Property Tax","NES",1994,226098
+"Property Tax","NES",1995,229220
+"Property Tax","NES",1996,242891
+"Property Tax","NES",1997,258009
+"Property Tax","NES",1998,272270
+"Property Tax","NES",1999,289018
+"Property Tax","NES",2000,299546
+"Property Tax","NES",2001,313719
+"Property Tax","NES",2002,334251
+"Property Tax","NES",2003,354603
+"Property Tax","NES",2004,380302
+"Property Tax","NES",2005,413141
+"Property Tax","NES",2006,438471
+"Property Tax","NES",2007,463051
+"Property Tax","NES",2008,471294
+"Property Tax","NES",2009,479335
+"Property Tax","NES",2010,473421
+"Property Tax","NES",2011,469792
+"Property Tax","NES",2012,480729
+"Property Tax","NES",2013,503220
+"Property Tax","NES",2014,520229
+"Property Tax","NES",2015,536145
+"Property Tax","NES",2016,559055
+"Property Tax","NES",2017,837718
+"Property Tax","NES",2018,610928

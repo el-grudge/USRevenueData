@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580776569497.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "983027091",
+    "id" : "F6179935",
+    "lastKnownWriteTime" : 1580765110,
+    "last_content_update" : 1580765110,
+    "path" : "~/R/Projects/CAP6737_INTERACTIVE_DATA_VIZ/ASSIGNMENTS/ASSIGNMENT_3/ASSIGNMENT_3.r",
+    "project_path" : "ASSIGNMENT_3.r",
+    "properties" : {
+        "cursorPosition" : "11,49",
+        "scrollLine" : "26",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

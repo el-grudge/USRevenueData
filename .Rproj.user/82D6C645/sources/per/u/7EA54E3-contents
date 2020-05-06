@@ -1,0 +1,39 @@
+install.packages("tidyverse")
+install.packages("OECD")
+install.packages("lubridate")
+
+#stacked area plot
+
+#proportional stack plot of the data
+
+library(tidyverse)
+library(OECD)
+library(lubridate)
+revusa <- get_dataset("REVUSA")
+revusa <- data.frame(revusa)
+df <- subset(revusa, select = -c(TIME_FORMAT))
+df <- filter(df, TAX %in% c("TOTALTAX", "1000", "2000", "3000", "4000", "5000", "6000"))
+df$obsTime <- year(as.Date(df$obsTime, "%Y"))
+df$obsValue <- as.integer(df$obsValue)
+df <- spread(df, TAX, obsValue)
+col_idx <- grep("TOTALTAX", colnames(df))
+df <- df[, c((1:2), col_idx, (4:ncol(df)-1))]
+colnames(df) <- c("Gov", "Time", "TotalTax", "CorporateIncomeTax", "SocialSecurityTax", "PayrollTax", "PropertyTax", "TaxesServiceGoods","OtherTaxes");
+
+#1
+ggplot(df, aes(x = Time, y = TotalTax)) + geom_line() + facet_grid(vars(Gov))
+ggplot(filter(df, Gov == "FED"), aes(x = Time, y = TotalTax)) + geom_line()
+ggplot(filter(df, Gov == "LOCAL"), aes(x = Time, y = TotalTax)) + geom_line()
+ggplot(filter(df, Gov == "NES"), aes(x = Time, y = TotalTax)) + geom_line()
+ggplot(filter(df, Gov == "SOCSEC"), aes(x = Time, y = TotalTax)) + geom_line()
+ggplot(filter(df, Gov == "STATE"), aes(x = Time, y = TotalTax)) + geom_line()
+
+#2: create multi-line plots (multi-line)
+ggplot(df) + geom_line(aes(x = Time, y = CorporateIncomeTax, colour = "Green")) + geom_line(aes(x = Time, y = SocialSecurityTax, color = "Orange")) + geom_line(aes(x = Time, y = PayrollTax, color = "Purple")) + geom_line(aes(x = Time, y = PropertyTax, color = "Pink")) + geom_line(aes(x = Time, y = TaxesServiceGoods, color = "Olive")) + geom_line(aes(x = Time, y = OtherTaxes, color = "Gold")) + facet_grid(vars(Gov))
+ggplot(filter(df, Gov == "FED")) + geom_line(aes(x = Time, y = CorporateIncomeTax, colour = "Green")) + geom_line(aes(x = Time, y = SocialSecurityTax, color = "Orange")) + geom_line(aes(x = Time, y = PayrollTax, color = "Purple")) + geom_line(aes(x = Time, y = PropertyTax, color = "Pink")) + geom_line(aes(x = Time, y = TaxesServiceGoods, color = "Olive")) + geom_line(aes(x = Time, y = OtherTaxes, color = "Gold"))
+ggplot(filter(df, Gov == "LOCAL")) + geom_line(aes(x = Time, y = CorporateIncomeTax, colour = "Green")) + geom_line(aes(x = Time, y = SocialSecurityTax, color = "Orange")) + geom_line(aes(x = Time, y = PayrollTax, color = "Purple")) + geom_line(aes(x = Time, y = PropertyTax, color = "Pink")) + geom_line(aes(x = Time, y = TaxesServiceGoods, color = "Olive")) + geom_line(aes(x = Time, y = OtherTaxes, color = "Gold"))
+ggplot(filter(df, Gov == "NES")) + geom_line(aes(x = Time, y = CorporateIncomeTax, colour = "Green")) + geom_line(aes(x = Time, y = SocialSecurityTax, color = "Orange")) + geom_line(aes(x = Time, y = PayrollTax, color = "Purple")) + geom_line(aes(x = Time, y = PropertyTax, color = "Pink")) + geom_line(aes(x = Time, y = TaxesServiceGoods, color = "Olive")) + geom_line(aes(x = Time, y = OtherTaxes, color = "Gold"))
+ggplot(filter(df, Gov == "SOCSEC")) + geom_line(aes(x = Time, y = CorporateIncomeTax, colour = "Green")) + geom_line(aes(x = Time, y = SocialSecurityTax, color = "Orange")) + geom_line(aes(x = Time, y = PayrollTax, color = "Purple")) + geom_line(aes(x = Time, y = PropertyTax, color = "Pink")) + geom_line(aes(x = Time, y = TaxesServiceGoods, color = "Olive")) + geom_line(aes(x = Time, y = OtherTaxes, color = "Gold"))
+ggplot(filter(df, Gov == "STATE")) + geom_line(aes(x = Time, y = CorporateIncomeTax, colour = "Green")) + geom_line(aes(x = Time, y = SocialSecurityTax, color = "Orange")) + geom_line(aes(x = Time, y = PayrollTax, color = "Purple")) + geom_line(aes(x = Time, y = PropertyTax, color = "Pink")) + geom_line(aes(x = Time, y = TaxesServiceGoods, color = "Olive")) + geom_line(aes(x = Time, y = OtherTaxes, color = "Gold"))
+
+#3 
